@@ -1,16 +1,46 @@
-<h1 align="center">Hi 👋, I'm Harsh Sawant</h1>
-<h3 align="center">A passionate MERN Stack from India</h3>
+# Harsh Sawant
 
-- 🌱 I’m currently learning **NEXT JS, Node JS, Express JS, Mongo DB, MySQL**
+**MERN Stack Developer · Mumbai, India · Open to remote roles & freelance**
 
-- 📫 How to reach me **harshhsawaant@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/harsh_7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="harsh_7" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/hs-mern-stack-developer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hs-mern-stack-developer" height="30" width="40" /></a>
-<a href="https://instagram.com/sawant_harsh_23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sawant_harsh_23" height="30" width="40" /></a>
-</p>
+## About
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+I build full-stack web apps with clean UIs and solid backends. With 2+ years working across the MERN stack, I've shipped production projects — from e-commerce platforms to startup landing pages. I care about code that actually works in the real world, not just looks good in a portfolio.
+
+---
+
+## Tech Stack
+
+`MongoDB` `Express.js` `React.js` `Node.js` `Next.js` `TypeScript` `Tailwind CSS` `MySQL` `PostgreSQL` `Docker` `Git` `REST APIs` `Postman`
+
+---
+
+## Projects
+
+### [Ancient Avenue](https://www.ancientavenue.in)
+A full-stack e-commerce platform for Ayurvedic products — built with product listings, cart, authentication, and order management. Live and in production.
+
+**Stack:** MongoDB · Express.js · React.js · Node.js
+
+---
+
+### [Arkavos](https://arkavos-website.vercel.app)
+Landing page built for a startup — fast, responsive, and production-deployed. Focused on clean UI and smooth performance.
+
+**Stack:** Next.js · Tailwind CSS
+
+---
+
+## Currently Working On
+
+Expanding my skills in Next.js and TypeScript — building more scalable, production-ready applications. Always open to interesting freelance work or remote opportunities.
+
+---
+
+## Contact
+
+- **Email:** harshhsawaant@gmail.com
+- **LinkedIn:** [linkedin.com/in/harsh-sawant-9e41hj56](https://linkedin.com/in/harsh-sawant-9e41hj56)
+- **Twitter / X:** [@HarshSawant07](https://x.com/HarshSawant07)
+- **Dev.to:** [dev.to/harsh_7](https://dev.to/harsh_7)
