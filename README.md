@@ -169,16 +169,6 @@ Next.js • Node.js • Express.js • MongoDB
 - Deployment Pipelines
 - Technical Problem Solving
 
----
-
-# 📊 GitHub Stats
-
-![Harsh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=harsh819&show_icons=true&theme=github_dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harsh819&layout=compact&theme=github_dark)
-
----
-
 # 🤝 Let's Connect
 
 📧 **Email**  
