@@ -22,7 +22,6 @@ My day job is production engineering for a large-scale operations platform: moni
 ## 🛠️ Tech Stack
 
 | | |
-|---|---|
 | **Backend** | Node.js · NestJS · Express · REST · GraphQL · TypeScript · Python |
 | **Databases** | PostgreSQL · MySQL · MongoDB · Redis |
 | **Cloud & DevOps** | AWS (EC2, S3) · Docker · Nginx · PM2 · GitHub Actions · Linux |
