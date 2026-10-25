@@ -1,191 +1,79 @@
 # Hi 👋, I'm Harsh Sawant
 
-### Software Engineer | Full Stack Development • Linux • Cloud • Automation
+### Backend Software Engineer · Node.js · NestJS · PostgreSQL · AWS
 
-📍 Mumbai, India  
-💼 Open to Full-Time Opportunities | Freelance | Remote
-
----
-
-## 👨‍💻 About Me
-
-I'm a Software Engineer with 2+ years of experience building production-grade applications and solving engineering challenges across full-stack development, cloud infrastructure, Linux systems, automation, and production support.
-
-I enjoy working on problems beyond feature development—whether it's debugging production issues, automating repetitive workflows, deploying applications, reverse-engineering APIs, or building scalable systems used in real-world environments.
-
-My experience spans frontend, backend, infrastructure, and operational engineering, allowing me to contribute throughout the software development lifecycle.
+📍 Mumbai, India · 💼 Open to full-time backend roles (Mumbai / remote) and select freelance work
 
 ---
 
-## 🚀 Tech Stack
+## 👨‍💻 About
 
-### Languages
-- JavaScript (ES6+)
-- Python
-- SQL
+I'm a backend-focused software engineer with 3 years of experience running and improving production systems. I like the part of engineering that starts after the deploy: tracing a bug to its root cause, reading logs and queries, and fixing the underlying problem instead of the symptom.
 
-### Frontend
-- React.js
-- Next.js
-- Vite.js
-- Redux
-- Tailwind CSS
+My day job is production engineering for a large-scale operations platform: monitoring, root-cause analysis, deployments, and automation. On the side I build full-stack products end to end, from the API and database to the UI and the deployment.
 
-### Backend
-- Node.js
-- Express.js
-- NestJS
-- GraphQL
-- REST APIs
-
-### Mobile
-- React Native
-
-### Databases
-- PostgreSQL
-- MongoDB
-- MySQL
-- Redis
-
-### Cloud & Infrastructure
-- AWS EC2
-- AWS S3
-- Docker
-- Linux
-- Nginx
-- PM2
-- GitHub Actions
-- CI/CD
-
-### Tools
-- Git
-- GitHub
-- Postman
-- VS Code
+**What I bring**
+- **Root-cause debugging:** I trace issues through APIs, queries, and logs, and write up evidence others can act on.
+- **Backend design:** REST and GraphQL APIs, relational schemas, role-based access, multi-tenant setups.
+- **Shipping and running it:** Docker, Nginx, PM2, GitHub Actions, and AWS (EC2, S3).
 
 ---
 
-# 🚀 Featured Projects
+## 🛠️ Tech Stack
 
-## 🎬 Arzen – Digital Signage & Cinema Operations Platform
-
-Production-grade digital signage platform supporting cinema operations across multiple locations.
-
-### Highlights
-
-- Built and enhanced operational dashboards for signage management
-- Developed Read-Only Role Management, Device Monitoring, Excel Export, and Content Scheduling features
-- Troubleshot Linux firmware, ISO images, and Electron-based applications
-- Configured digital signage devices and resolved production deployment issues
-- Automated repetitive workflows using Python scripts
-- Supported production environments across frontend, backend, and infrastructure
-
-**Tech Stack**
-
-NestJS • Vite.js • PostgreSQL • Electron • Python • Linux
+| | |
+|---|---|
+| **Backend** | Node.js · NestJS · Express · REST · GraphQL · TypeScript · Python |
+| **Databases** | PostgreSQL · MySQL · MongoDB · Redis |
+| **Cloud & DevOps** | AWS (EC2, S3) · Docker · Nginx · PM2 · GitHub Actions · Linux |
+| **Frontend** | Next.js · React · Vite · Tailwind CSS · Redux |
+| **Mobile** | React Native |
+| **Tools** | Git · Postman · VS Code |
 
 ---
 
-## 🏛️ NSOS – Multi-Tenant Citizen Grievance Platform
+## 🚀 Featured Projects
 
-A multi-tenant platform enabling municipal representatives to connect digitally with citizens through dedicated web portals, dashboards, and mobile applications.
+### 🛒 Ancient Avenue: Ayurvedic E-Commerce
+Production e-commerce platform with a customer storefront, product and order management, and an admin dashboard with revenue analytics.
+🌐 [ancientavenue.in](https://www.ancientavenue.in)
+`Next.js` `Node.js` `Express` `MongoDB`
 
-### Highlights
+### 🏛️ NSOS: Multi-Tenant Citizen Grievance Platform
+Lets municipal representatives connect with citizens through their own web portals and mobile apps.
+- Dynamic tenant onboarding for independent portals and apps
+- Secure authentication and role-based dashboards
+- Grievance workflows, project progress tracking, and analytics
+- REST APIs consumed by a React Native app
 
-- Developed citizen grievance management workflows
-- Built dynamic onboarding for independent web portals and mobile apps
-- Implemented secure authentication and role-based dashboards
-- Developed project progress tracking and analytics modules
-- Integrated backend APIs with React Native mobile application
+`Next.js` `React Native` `Node.js` `PostgreSQL`
 
-**Tech Stack**
+### 🥬 B2B Food Products Delivery Platform
+Separate customer, admin, and rider portals for a B2B food delivery business.
+- Role-based access control and super-admin approval of new customer sign-ups
+- Payment integration, Dockerized deployment
 
-Next.js • React Native • Node.js • PostgreSQL • REST APIs
+`Next.js` `Python` `MySQL` `Docker`
 
----
+### 🎬 Arzen: Digital Signage Platform
+Digital signage management for multi-location cinema operations.
+- Read-only role management, device monitoring, Excel export, content scheduling
+- Python automation for repetitive operational workflows
+- Production troubleshooting across Linux, firmware images, and Electron apps
 
-## 🏥 Citrine Wellness Center Management System
+`NestJS` `Vite` `PostgreSQL` `Electron` `Python`
 
-Business management platform for wellness centers.
-
-### Highlights
-
-- Built Admin and Super Admin dashboards
-- Therapist onboarding and appointment management
-- Inventory management and billing
-- Revenue tracking and operational reports
-- Role-based access control
-
-**Tech Stack**
-
-Vite.js • Node.js • Express.js • MySQL
-
----
-
-## 🛒 Ancient Avenue – Ayurvedic E-Commerce Platform
-
-Production-ready e-commerce platform for Ayurvedic products.
-
-🌐 Live Website
-
-https://www.ancientavenue.in
-
-### Highlights
-
-- Customer storefront
-- Product management
-- Admin dashboard
-- Revenue analytics
-- Order management
-
-**Tech Stack**
-
-Next.js • Node.js • Express.js • MongoDB
+### 🌿 Citrine: Wellness Center Management
+Admin and super-admin dashboards for therapist onboarding, appointments, inventory, billing, and revenue reports, with role-based access.
+`Vite` `Node.js` `Express` `MySQL`
 
 ---
 
-# 🌱 Currently Exploring
-
-- System Design
-- Backend Architecture
-- Production Engineering
-- Linux Administration
-- Cloud Infrastructure
-- NestJS
-- Python Automation
-- Distributed Systems
+## 🌱 Currently Learning
+System design · distributed systems · AWS beyond EC2/S3 · database performance
 
 ---
 
-# 💡 Engineering Interests
+## 🤝 Let's Connect
 
-- Full Stack Development
-- Production Engineering
-- Workflow Automation
-- Linux Systems
-- Cloud Deployments
-- API Debugging
-- Reverse Engineering
-- Deployment Pipelines
-- Technical Problem Solving
-
-# 🤝 Let's Connect
-
-📧 **Email**  
-harshhsawaant@gmail.com
-
-💼 **LinkedIn**  
-https://www.linkedin.com/in/hs-software-developer
-
-🐙 **GitHub**  
-https://github.com/harsh819
-
-✍️ **Dev.to**  
-https://dev.to/harsh_7
-
-🐦 **X (Twitter)**  
-https://x.com/HarshSawant07
-
----
-
-⭐ Thanks for visiting my profile! I'm always excited to collaborate on interesting engineering challenges, contribute to open-source projects, and build scalable software solutions.
+[📧 Email](mailto:harshhsawaant@gmail.com) · [💼 LinkedIn](https://www.linkedin.com/in/hs-software-developer) · [✍️ Dev.to](https://dev.to/harsh_7) · [🐦 X](https://x.com/HarshSawant07)
